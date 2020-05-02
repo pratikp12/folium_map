@@ -22,4 +22,16 @@ For a local installation, make sure you have
 
     $ pip install notebook
 
+# description 
+
+I am using data related to corona affected area in india.Folium maps in Jupyter notebook can show visual representation of data.There are two maps in this notbook
+
+# 1 Markers 
+![](folium/no.PNG)
+# 2 Choropleth
+![](folium/clorephet.PNG)
+
+# Steps:
+download all the resourses of this assignment
+
 
