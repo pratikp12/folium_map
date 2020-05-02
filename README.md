@@ -31,6 +31,9 @@ I am using data related to corona affected area in india.Folium maps in Jupyter 
 # 2 Choropleth
 ![](folium/clorephet.PNG)
 
+# Special Thanks:
+
+Shraddha Bidaye who, maintain csv file.
 # Steps:
 download all the resourses of this assignment
 
