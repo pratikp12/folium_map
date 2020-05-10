@@ -37,3 +37,6 @@ download all the resourses of this assignment
 # Special Thanks:
 
 Shraddha Bidaye who, maintain csv file.
+
+### License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
